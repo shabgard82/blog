@@ -1,0 +1,52 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "pizza",
+      "image": "/images/pizza.jpg",
+      "description": "lorvslsdjk/lVDsa'/VDAS'vsd"
+    },
+    {
+      "id": 2,
+      "title": "hambergur",
+      "image": "/images/curry.jpg",
+      "description": "lolVDsaVDAS'vsd"
+    },
+    {
+      "id": 3,
+      "title": "chikken",
+      "image": "/images/macncheese.jpg",
+      "description": "lVDsaVDAS'vsd"
+    },
+    {
+      "id": 4,
+      "title": "sossage",
+      "image": "/images/macncheese.jpg",
+      "description": "kjDAS'vsd"
+    },
+    {
+      "id": 5,
+      "title": "meat",
+      "image": "/images/dumplings.jpg",
+      "description": "ghghhk,blhbjk"
+    },
+    {
+      "id": 6,
+      "title": "meat",
+      "image": "/images/dumplings.jpg",
+      "description": "ghghhk,blhbjk"
+    },
+    {
+      "id": 7,
+      "title": "meat",
+      "image": "/images/dumplings.jpg",
+      "description": "ghghhk,blhbjk"
+    },
+    {
+      "id": 8,
+      "title": "meat",
+      "image": "/images/dumplings.jpg",
+      "description": "ghghhk,blhbjk"
+    }
+  ]
+}

@@ -8,3 +8,5 @@ interface ContainerType {
 export default function Container({ children, className }: ContainerType) {
   return <div className={`container mx-auto ${className}`}>{children}</div>;
 }
+
+//npx json-server --watch database/db.json --port 5000
