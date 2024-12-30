@@ -15,13 +15,7 @@ export default async function Blogs() {
   return (
     <Container className="bg-slate-50 mt-4">
       {data.map((item) => (
-        <div key={item.id}>
-          <Article
-            title={item.title}
-            description={item.description}
-            image={item.image}
-          />
-        </div>
+        <Article key={item.id} {...item} />
       ))}
     </Container>
   );
