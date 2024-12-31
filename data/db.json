@@ -1,52 +1,52 @@
 {
   "articles": [
     {
-      "id": 1,
+      "id": "1",
       "title": "pizza",
       "image": "/images/pizza.jpg",
-      "description": "lorvslsdjk/lVDsa'/VDAS'vsd"
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
     },
     {
-      "id": 2,
-      "title": "hambergur",
+      "id": "2",
+      "title": "burger",
+      "image": "/images/burger.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
+    },
+    {
+      "id": "3",
+      "title": "macncheese",
+      "image": "/images/macncheese.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
+    },
+    {
+      "id": "4",
+      "title": "schnitzel",
+      "image": "/images/schnitzel.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
+    },
+    {
+      "id": "5",
+      "title": "meat",
       "image": "/images/curry.jpg",
-      "description": "lolVDsaVDAS'vsd"
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
     },
     {
-      "id": 3,
-      "title": "chikken",
-      "image": "/images/macncheese.jpg",
-      "description": "lVDsaVDAS'vsd"
-    },
-    {
-      "id": 4,
-      "title": "sossage",
-      "image": "/images/macncheese.jpg",
-      "description": "kjDAS'vsd"
-    },
-    {
-      "id": 5,
+      "id": "6",
       "title": "meat",
       "image": "/images/dumplings.jpg",
-      "description": "ghghhk,blhbjk"
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
     },
     {
-      "id": 6,
-      "title": "meat",
-      "image": "/images/dumplings.jpg",
-      "description": "ghghhk,blhbjk"
+      "id": "7",
+      "title": "pizza pepperoni",
+      "image": "/images/pizza.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
     },
     {
-      "id": 7,
-      "title": "meat",
-      "image": "/images/dumplings.jpg",
-      "description": "ghghhk,blhbjk"
-    },
-    {
-      "id": 8,
-      "title": "meat",
-      "image": "/images/dumplings.jpg",
-      "description": "ghghhk,blhbjk"
+      "id": "8",
+      "title": "tomato-salad",
+      "image": "/images/tomato-salad.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
     }
   ]
 }
