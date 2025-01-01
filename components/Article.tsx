@@ -1,7 +1,7 @@
 import { dataType } from "@/app/blogs/page";
 import Image from "next/image";
 
-export default function Article({ title, description, image }: dataType) {
+export default function Article({ title, description, image, cost }: dataType) {
   return (
     <div className="shadow p-4">
       <div className="relative w-full aspect-video">
@@ -13,8 +13,11 @@ export default function Article({ title, description, image }: dataType) {
           </div>
         )}
       </div>
-      <h2 className="flex p-2 font-bold  justify-center">{title}</h2>
-      <p>{description}</p>
+      <div className="flex p-2 font-bold justify-around items-between">
+        <h2>{title}</h2>
+        <h3 className="font-bold">{cost}</h3>
+      </div>
+      <p className="text-center">{description}</p>
     </div>
   );
 }

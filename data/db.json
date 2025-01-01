@@ -3,50 +3,79 @@
     {
       "id": "1",
       "title": "pizza",
+      "cost": "10,000$",
       "image": "/images/pizza.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
     },
     {
       "id": "2",
       "title": "burger",
+      "cost": "6,000$",
       "image": "/images/burger.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
     },
     {
       "id": "3",
       "title": "macncheese",
+      "cost": "9,000$",
       "image": "/images/macncheese.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
     },
     {
       "id": "4",
       "title": "schnitzel",
+      "cost": "2,000$",
       "image": "/images/schnitzel.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
     },
     {
       "id": "5",
-      "title": "meat",
+      "title": "curry",
+      "cost": "7,000$",
       "image": "/images/curry.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
     },
     {
       "id": "6",
-      "title": "meat",
+      "title": "dumplings",
+      "cost": "23,000$",
       "image": "/images/dumplings.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
     },
     {
       "id": "7",
       "title": "pizza pepperoni",
+      "cost": "18,000$",
       "image": "/images/pizza.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
     },
     {
       "id": "8",
       "title": "tomato-salad",
+      "cost": "2,000$",
       "image": "/images/tomato-salad.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
+    },
+    {
+      "id": "9",
+      "title": "cheese burger",
+      "image": "/images/pizza.jpg",
+      "description": "this is the best meat and very delicious fod it ius fabnkkjsdjh",
+      "cost": "28,0000$2"
+    },
+    {
+      "id": "10",
+      "title": "pizza chicken",
+      "image": "/images/pizza.jpg",
+      "description": "this is the best food for big family it is huge pizza ,uddkldkjjop;wqek[j'",
+      "cost": "100,000$"
+    },
+    {
+      "id": "11",
+      "title": "burgezoghali",
+      "image": "/images/burger.jpg",
+      "description": "burgezoghaliburgezoghaliburgezoghalibur gezoghaliburgezoghaliburgezoghaliburge",
+      "cost": "30,0000$"
     }
   ]
 }

@@ -7,11 +7,13 @@ export interface dataType {
   description: string;
   title: string;
   image: string;
+  cost: string;
 }
 
 export default async function Blogs() {
   const resault = await fetch("http://localhost:5000/articles");
   const data = (await resault.json()) as dataType[];
+  console.log(data, "hhggh");
 
   return (
     <Container className="bg-slate-50 mt-4">

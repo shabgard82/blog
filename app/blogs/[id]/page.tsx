@@ -16,6 +16,7 @@ export default async function BlogDetail({ params }: BlogDetailParams) {
         <Image src={data?.image} alt={data?.title} fill />
       </div>
       <h1 className="text-[20px] font-bold pt-5">{data?.title}</h1>
+      <h2>{data?.cost}</h2>
       <p className="w-2/4">{data?.description}</p>
     </div>
   );
